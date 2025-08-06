@@ -4,7 +4,6 @@ A basic calculator desktop application built using Java Swing GUI. This project 
 
 ---
 
-## 📸 Screenshot
 
 ## 📸 Screenshot
 
