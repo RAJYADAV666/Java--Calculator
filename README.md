@@ -7,7 +7,9 @@ A basic calculator desktop application built using Java Swing GUI. This project 
 
 ## 📸 Screenshot
 
-![Fork Calculator UI](Screenshot%202025-08-07%20024043.png)
+## Screenshot
+![Calculator Screenshot](assets/Calculator.png)
+
 
 
 ---
